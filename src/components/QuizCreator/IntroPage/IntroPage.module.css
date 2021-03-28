@@ -1,0 +1,17 @@
+.IntroPage {
+  height: 100%;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Title {
+  font-size: 5em;
+  font-weight: lighter;
+}
+
+.ButtonContainer {
+  margin: 50px;
+}

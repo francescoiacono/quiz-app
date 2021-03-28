@@ -1,0 +1,18 @@
+.QuestionCreator {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin: 10px;
+  align-items: center;
+}
+
+.QuestionCreator div {
+  margin: 10px;
+}
+
+.QuestionCreator input {
+  width: 700px;
+  border: 1px solid #ccc;
+  font-size: 1em;
+  padding: 5px;
+}

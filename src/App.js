@@ -1,7 +1,10 @@
+import './App.css';
+import QuizCreator from './components/QuizCreator/QuizCreator';
+
 function App() {
   return (
-    <div>
-      <p>hello world</p>
+    <div className='App'>
+      <QuizCreator />
     </div>
   );
 }

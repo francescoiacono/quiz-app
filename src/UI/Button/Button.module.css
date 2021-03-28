@@ -1,0 +1,28 @@
+.Button {
+  border: 2px solid #000;
+  padding: 10px;
+  border-radius: 10px;
+  background: #ffffff;
+  text-transform: uppercase;
+  font-weight: bold;
+  cursor: pointer;
+
+  transition: background 0.3s ease-out;
+}
+
+.Button:active {
+  box-shadow: 0 0 10px #000;
+}
+
+.Button:hover {
+  background: #000;
+  color: #fff;
+}
+
+.Big {
+  font-size: 1em;
+}
+
+.Small {
+  font-size: 0.6em;
+}
